@@ -1,1 +1,3 @@
-# this is an <h6> header, which is the smallest!
+![Image of Yaktocat] (https://oltodex.github.com/images/yaktocat.png)
+
+Its looks like
